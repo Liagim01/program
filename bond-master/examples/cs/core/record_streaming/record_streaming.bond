@@ -1,7 +1,0 @@
-namespace examples.record_streaming
-
-struct Struct
-{
-    0: uint32          n;
-    1: string          str;
-}

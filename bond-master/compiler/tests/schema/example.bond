@@ -1,6 +1,0 @@
-namespace example.some
-
-struct SomeStruct
-{
-    0: int32 someField = 123;
-}  

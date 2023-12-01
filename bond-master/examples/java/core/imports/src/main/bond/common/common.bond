@@ -1,8 +1,0 @@
-﻿namespace Examples.Common
-
-enum Priority
-{
-    Low;
-    Normal;
-    High;
-}

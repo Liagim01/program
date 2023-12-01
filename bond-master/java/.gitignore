@@ -1,9 +1,0 @@
-*/.gradle/
-*/gradle/
-*/gradlew
-*/gradlew.bat
-*/.idea/libraries
-*/.idea/uiDesigner.xml
-*/.idea/workspace.xml
-*/build/
-*/out/

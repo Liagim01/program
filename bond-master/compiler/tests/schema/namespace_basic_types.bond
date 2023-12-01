@@ -1,6 +1,0 @@
- namespace tests2
-
-struct OtherBasicTypes
-{
-     0: bool _bool;
-}

@@ -1,1 +1,0 @@
-add_bond_test (protocol_versions protocol_versions.bond protocol_versions.cpp)
