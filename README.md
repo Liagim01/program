@@ -44,6 +44,8 @@ Exception Handling: Review the code for its approach to error and exception hand
 
 External Libraries and Dependencies: List any external libraries or dependencies used in the code. Specify the names, versions, and purposes of these libraries, and explain how they contribute to the program's functionality.
 
-+ 一个程序里所有的readme（前8000个str，约2000~3000左右的token,completion 1000 token）
+\+ 一个程序里所有的readme（前8000个str，约2000~3000左右的token,completion 1000 token）
+
 => GPT3.5
+
 => prompt for ChatDev
