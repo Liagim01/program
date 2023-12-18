@@ -1,28 +1,49 @@
-| 名字 | 没报错    |界面  |   功能   |与原程序相比是否完善|
+| 名字 | 没报错    |界面  |   功能   |与原程序相比是否完善|是否需要修复bug后运行|
 |------|------|------|------|------|
-|   Alarm clock   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   :heavy_check_mark:   |
-|  All Links from a Given Webpage    |  :heavy_check_mark:    |  :heavy_check_mark:    |   :heavy_check_mark:   |  :heavy_check_mark:    |
-|   ASCII Art Generator   |  :x:    |    :heavy_check_mark:  |    :heavy_check_mark:     |   py文件中有单独一行的文件名，requirement.txt没有提供需要的pip安装包   |
-|Baidu_POI_crawl |  NA    |   NA   |NA | Prompt与程序不相关，生成了神经网络的分类|
-|   AudioBook   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   :heavy_check_mark:   |
-|Battery_notification |  程序功能与原程序相同    |  :heavy_check_mark:    |   :heavy_check_mark:   |  :heavy_check_mark:    |
-|   Billing system   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   取消保存账单到不同文件的功能，导致不能搜索账单   |
-|   Bouncing ball simulator   | :x: circular import    |    :heavy_check_mark:  |  :x:   | :x: 没有main.py，没有创建游戏主体   |
-|   Calculate_age   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |  逻辑和原程序不一样，prompt描述是正确的  |
-|   Captcha Generator   |  NA    |    NA  |   NA  |   Prompt问题，只有结构，没有程序相关的内容   |
-|  Capture_Video_Frames   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   :heavy_check_mark:   |
-|   cat_command  |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   :heavy_check_mark:   |
-|   chatbot   |  :x:    |    :x:  |   :x:   |   缺少大部分功能   |
-|   Check_website_connectivity   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   :heavy_check_mark:   |
-|   Cli_todo  |  :x:    |    :x:   |  :x:    |   主要功能class是空的   |
-|   convert pdf to text   |  :x:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   import文件大小写不一样   |
-|  Convert_a_image_to_pdf   |  :heavy_check_mark:    |    :heavy_check_mark:  |   转化的文件打不开   |   :x:   |
-|   Convert_a_image_to_pdf  |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   :heavy_check_mark:   |
-|  Convert_JSON_to_CSV   |  :heavy_check_mark:    |   :x: tinker文件空的  | :x:  没能选中文件因为缺少界面   |   :x:   |
-|   Convert_numbers_to_word   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   有的逻辑不对100是one hundred zero  |
-|   Convert_XML_To_JSON   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   没有输入的文件  |
-|   Create_a_script_to_encrypt_files_and_folder   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   :heavy_check_mark:   |
-|   Create_a_simple_stopwatch   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   :heavy_check_mark:   |
-|  Create_calculator_app   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :x:   |   只有界面，不能运算   |
-|   Currency_converter   |  :heavy_check_mark:    |    :heavy_check_mark:  |   :heavy_check_mark:   |   :heavy_check_mark:   |
+|   aiosql-main   |  :heavy_check_mark:    |    :x:  |   :x:   |   :x:  函数被pass |NA|
+|  Angry_Birds   |  :heavy_check_mark:    |      :x:  |   :x:   |   :x:  无法交互，没有界面，程序不完整 |NA|
+|   chinese_province_city_area_mapper  |  :x:    |     :x:  |   :x:   |   :x:  函数被pass |NA|
+|  cipherscan-master   | :heavy_check_mark:     |    :heavy_check_mark:    |   :heavy_check_mark:     |   :x:  功能不一致 | :heavy_check_mark:   |
+|cookiecutter-pylibrary  |  ValueError: No Valid Codes.    |    :x:  |   :x:   |   :x:   |
+|   debugpy  |  ValueError: No Valid Codes.    |    :x:  |   :x:   |   :x:   |
+|  facebook-python-business   |  :x: main空的    |    :x:  |   :x:   |   :x:   | NA |
+|   finta  |  :x: main空的   |    :x:  |   :x:   |   :x:   | NA |
+|  glitch-this   |   :heavy_check_mark:     |     :heavy_check_mark:   |    :heavy_check_mark:   |  :x:  功能不一致，prompt太宽泛  | NA |
+|    Image-OutPainting |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|  instagram_private_api   |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|   mediacms  |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|   mysqlclient  |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|  pretix   |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|   python-feedgen  |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|  quietnet   |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|  Realtime_PyAudio_FFT   |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|  Scweet   |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|   SentEval  |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|   sherlock  |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|   SimpleCoin  |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|    tensorwatch-master |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|    textshot-master |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|    timer-app-master |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|    TTS-dev |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|    usaddress-master |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|    VirtScreen-master |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|    watchfiles-main |  :x:    |    :x:  |   :x:   |   :x:   | NA |
+|    ytmdl-master |  :x:    |    :x:  |   :x:   |   :x:   | NA |
 
+Prompt：I have a final version of readme files which has been developed through multiple iterations. This readme files is attached here for your reference. Based on this information provided, I need you to write a set of genral yet comprehensize instructions that could be used to recreate this program as prompt. The instructions should cover the following aspects and beyond:
+
+Modules and Classes: Examine the attached code and specify the required modules. Detail the names, attributes, and methods of classes within each module. Describe the purpose and functionality of each class, explaining how they interact within the program.
+
+Data Structures: Identify any specific data structures used in the code. Provide their names, attributes, and methods, and explain their role in the program's functionality.
+
+Main Program Flow: Analyze the main flow of the program as demonstrated in the code. Describe the steps to initialize and call other modules, classes, and methods in the main file (e.g., main.py). Explain the logical flow of the program during runtime, highlighting key operational steps.
+
+Input and Output: Define how the program receives input  whether from users or external data sources  as evidenced in the code. Also, describe the expected outputs or behaviors of the program, focusing on how it processes and presents data.
+
+Exception Handling: Review the code for its approach to error and exception handling. Explain how to handle potential errors or exceptions to ensure the stability and robustness of the program.
+
+External Libraries and Dependencies: List any external libraries or dependencies used in the code. Specify the names, versions, and purposes of these libraries, and explain how they contribute to the program's functionality.
+
++ 一个程序里所有的readme（前8000个str，约2000~3000左右的token,completion 1000 token）
+=> GPT3.5
+=> prompt for ChatDev
