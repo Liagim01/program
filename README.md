@@ -1,5 +1,5 @@
 | 名字 | 没报错    |界面  |   功能   |与原程序相比是否完善|是否需要修复bug后运行|
-|------|------|------|------|------|
+|------|------|------|------|------|------|
 |   aiosql-main   |  :heavy_check_mark:    |    :x:  |   :x:   |   :x:  函数被pass |NA|
 |  Angry_Birds   |  :heavy_check_mark:    |      :x:  |   :x:   |   :x:  无法交互，没有界面，程序不完整 |NA|
 |   chinese_province_city_area_mapper  |  :x:    |     :x:  |   :x:   |   :x:  函数被pass |NA|
